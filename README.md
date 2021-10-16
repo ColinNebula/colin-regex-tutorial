@@ -3,6 +3,18 @@
 ## Description
 Regex is short for regular expression, it is a string of text which allows for the creation of patterns. These patterns can help locate, replace, manage and also make text matches.
 
+## Project Github Repository
+https://github.com/ColinNebula/colin-regex-tutorial
+## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Author](#author)
+
+## Installation
+No installation needed
+
+## Author
+Colin Nebula
 
 ## User Story
 AS A web development student
