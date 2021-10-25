@@ -1,15 +1,29 @@
 # colin-regex-tutorial
 
 ## Description
-Regex is short for regular expression, it is a string of text which allows for the creation of patterns. These patterns can help locate, replace, manage and also make text matches.
+Regex is short for regular expressions. Regular expression is a string of text which defines a search patterns. These patterns can help locate, replace, manage and also make text matches.
 
+## Project Github Gist
+https://gist.github.com/ColinNebula
+
+## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Author](#author)
+
+## Installation
+Clone the script at gist.github to get the gist
+download the ZIP file and save to your PC or MAC
+
+## Author
+Colin Nebula
 
 ## User Story
 AS A web development student
 I WANT a tutorial explaining a specific regex
 SO THAT I can understand the search pattern the regex defines
 
-Acceptance Criteria
+## Acceptance Criteria
 GIVEN a regex tutorial
 WHEN I open the tutorial
 THEN I see a descriptive title and introductory paragraph explaining the purpose of the tutorial, a summary describing the regex featured in the tutorial, a table of contents linking to different sections that break down each component of the regex and explain what it does, and a section about the author with a link to the author’s GitHub profile
