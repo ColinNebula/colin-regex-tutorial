@@ -3,13 +3,17 @@
 ## Description
 Regex is short for regular expressions. Regular expression is a string of text which defines a search patterns. These patterns can help locate, replace, manage and also make text matches.
 
+
 ## Project Github Gist
 https://gist.github.com/ColinNebula
 
+## Project Github repository
+https://github.com/ColinNebula/colin-regex-tutorial/tree/main
+
 ## Table of Contents
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Author](#author)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Author](#author)
 
 ## Installation
 Clone the script at gist.github to get the gist
