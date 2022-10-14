@@ -1,4 +1,4 @@
-# Title (colin-regex-tutorial)
+# Title (Colin-Regex-Tutorial)
 
 In this tutorial, we will be taking a look at Regex which is regular expression. We will peer into the some of the main components of regex and offer some useful examples and syntax.
 
