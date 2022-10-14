@@ -107,5 +107,5 @@ Look-ahead and Look-behind are also known as 'look-around' together.
 This example will match e only if it is followed by m but m will not be a part of the overall match.
 
 ## Author
-My name is Colin Nebula and I am currently enrolled at a coding boot camp as a full stack website developer. I aim to add full stack web development to my list of acquired skills.  
+My name is Colin Nebula and I am a recent graduate of the University of Toronto's coding boot camp as a full stack website developer. I have now added full stack web development to my list of acquired skills.  
 (https://github.com/ColinNebula)
