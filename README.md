@@ -1,4 +1,4 @@
-# colin-regex-tutorial
+# Colin-Regex-Tutorial
 
 ## Description
 Regex is short for regular expressions. Regular expression is a string of text which defines a search patterns. These patterns can help locate, replace, manage and also make text matches.
